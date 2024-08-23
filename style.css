@@ -131,7 +131,8 @@ button:last-child{
     width: 50rem;
 }
 /*MEDIA QUERIES (small screens)*/
-@media screen and (max-width: 600px){
+@media screen and (max-width: 600px)
+{
     body{
         display: block;
         background: var(--color-white); 
